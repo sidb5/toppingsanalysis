@@ -1,0 +1,10 @@
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\bin\Debug\OloTest.exe.config
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\bin\Debug\OloTest.exe
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\bin\Debug\OloTest.pdb
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\bin\Debug\Newtonsoft.Json.dll
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\bin\Debug\Newtonsoft.Json.xml
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\obj\Debug\ToppingsAnalysis.csprojAssemblyReference.cache
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\obj\Debug\ToppingsAnalysis.csproj.CoreCompileInputs.cache
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\obj\Debug\ToppingsAnalysis.csproj.CopyComplete
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\obj\Debug\OloTest.exe
+D:\Sid\JB\js\tests\olo\OloTest\OloTest\obj\Debug\OloTest.pdb
